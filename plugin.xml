@@ -82,6 +82,11 @@
         <source-file src="src/android/Options.java"           target-dir="src/de/appplant/cordova/plugin/localnotification" />
         <source-file src="src/android/Restore.java"           target-dir="src/de/appplant/cordova/plugin/localnotification" />
         <source-file src="src/android/ReceiverActivity.java"  target-dir="src/de/appplant/cordova/plugin/localnotification" />
+
+        <icon src="res/android/icon.png" density="ldpi" />
+        <icon src="res/android/icon.png" density="mdpi" />
+        <icon src="res/android/icon.png" density="hdpi" />
+        <icon src="res/android/icon.png" density="xhdpi" />
     </platform>
 
     <!-- wp8 -->
